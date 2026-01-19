@@ -1,6 +1,3 @@
-# Bitcoin Genesis Block (Block 0)
-
-
 genesis = {
 block: "genesis",
 height: 0,
